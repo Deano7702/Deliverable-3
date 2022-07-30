@@ -1,0 +1,19 @@
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.csprojAssemblyReference.cache
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.csproj.GenerateResource.cache
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.exe
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\DatabaseDemo.pdb
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.exe.config
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.exe
+H:\courses\COMPX223\project\ChartDemo\bin\Debug\DatabaseDemo.pdb
+H:\courses\COMPX223\project\ChartDemo\obj\Debug\ChartDemo.ChartForm.resources
+E:\COMPX223\Assignments\Deliverable 3\ChartDemo\ChartDemo\bin\Debug\DatabaseDemo.exe.config
+E:\COMPX223\Assignments\Deliverable 3\ChartDemo\ChartDemo\bin\Debug\DatabaseDemo.exe
+E:\COMPX223\Assignments\Deliverable 3\ChartDemo\ChartDemo\bin\Debug\DatabaseDemo.pdb
+E:\COMPX223\Assignments\Deliverable 3\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.AssemblyReference.cache
+E:\COMPX223\Assignments\Deliverable 3\ChartDemo\ChartDemo\obj\Debug\ChartDemo.ChartForm.resources
+E:\COMPX223\Assignments\Deliverable 3\ChartDemo\ChartDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+E:\COMPX223\Assignments\Deliverable 3\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.GenerateResource.cache
+E:\COMPX223\Assignments\Deliverable 3\ChartDemo\ChartDemo\obj\Debug\ChartDemo.csproj.CoreCompileInputs.cache
+E:\COMPX223\Assignments\Deliverable 3\ChartDemo\ChartDemo\obj\Debug\DatabaseDemo.exe
+E:\COMPX223\Assignments\Deliverable 3\ChartDemo\ChartDemo\obj\Debug\DatabaseDemo.pdb

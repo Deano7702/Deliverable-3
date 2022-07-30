@@ -1,0 +1,11 @@
+H:\courses\COMPX223\project\DatabaseDemo\bin\Debug\DatabaseDemo.exe.config
+H:\courses\COMPX223\project\DatabaseDemo\bin\Debug\DatabaseDemo.exe
+H:\courses\COMPX223\project\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+H:\courses\COMPX223\project\DatabaseDemo\obj\Debug\DatabaseDemo.csprojAssemblyReference.cache
+H:\courses\COMPX223\project\DatabaseDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+H:\courses\COMPX223\project\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.GenerateResource.cache
+H:\courses\COMPX223\project\DatabaseDemo\obj\Debug\DatabaseDemo.exe
+H:\courses\COMPX223\project\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
+H:\courses\COMPX223\project\DatabaseDemo\obj\Debug\DatabaseDemo.EditForm.resources
+H:\courses\COMPX223\project\DatabaseDemo\obj\Debug\DatabaseDemo.ChartForm.resources
+H:\courses\COMPX223\project\DatabaseDemo\obj\Debug\DatabaseDemo.DatabaseDemoForm.resources
